@@ -20,7 +20,7 @@ html {
 
 body {
     min-height: 100vh;
-    background-image: url("../img/fundo.jpg");
+    background-image: url("../img/background.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: right;
